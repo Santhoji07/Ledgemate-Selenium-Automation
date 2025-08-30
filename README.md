@@ -9,15 +9,3 @@ This repository contains sample Selenium automation tests for the **Ledgemate Fi
 - Maven
 - WebDriverManager
 
-## 📂 Project Structure
-Ledgemate-Selenium-Automation/
- ├── pom.xml
- ├── testng.xml
- ├── README.md
- ├── src/
- │   ├── main/java/pages/
- │   │   ├── LoginPage.java
- │   │   └── TransactionPage.java
- │   └── test/java/tests/
- │       ├── LoginTest.java
- │       └── TransactionTest.java
